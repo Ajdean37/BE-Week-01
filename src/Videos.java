@@ -60,8 +60,11 @@ public class Videos {
 		newAccountBalance = newAccountBalance - withdrawalAmount;
 		System.out.println("Here is your withdrawal of $" + withdrawalAmount);
 		System.out.println("Your new balance is $" + newAccountBalance);
-		
+
+
 
 	}
 }
+
+
 
